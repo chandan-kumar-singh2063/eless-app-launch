@@ -6,28 +6,28 @@ const socialLinks = [
   {
     name: "Facebook",
     icon: Facebook,
-    url: "https://facebook.com/", // Replace with actual URL
+    url: "https://www.facebook.com/chandan.sing.5851127",
     colorClass: "hover:bg-facebook hover:text-foreground hover:shadow-[0_0_25px_hsl(221_44%_41%/0.6)]",
     bgClass: "bg-facebook/10 text-facebook",
   },
   {
     name: "LinkedIn",
     icon: Linkedin,
-    url: "https://linkedin.com/in/", // Replace with actual URL
+    url: "https://www.linkedin.com/in/chandan-kumar-singh-49a658375/",
     colorClass: "hover:bg-linkedin hover:text-foreground hover:shadow-[0_0_25px_hsl(201_100%_35%/0.6)]",
     bgClass: "bg-linkedin/10 text-linkedin",
   },
   {
     name: "GitHub",
     icon: Github,
-    url: "https://github.com/", // Replace with actual URL
+    url: "https://github.com/chandan-kumar-singh2063",
     colorClass: "hover:bg-github hover:text-background hover:shadow-[0_0_25px_hsl(0_0%_98%/0.4)]",
     bgClass: "bg-github/10 text-github",
   },
   {
     name: "Instagram",
     icon: Instagram,
-    url: "https://instagram.com/", // Replace with actual URL
+    url: "https://www.instagram.com/chandan0377/",
     colorClass: "hover:bg-instagram hover:text-foreground hover:shadow-[0_0_25px_hsl(340_75%_54%/0.6)]",
     bgClass: "bg-instagram/10 text-instagram",
   },
