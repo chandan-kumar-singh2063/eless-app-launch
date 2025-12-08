@@ -12,7 +12,7 @@ const HeroSection = () => {
   }, []);
 
   const handleDownload = () => {
-    const apkUrl = "https://github.com/chandan-kumar-singh2063/eless-app/releases/download/V1.0/eless.apk";
+    const apkUrl = "https://github.com/chandan-kumar-singh2063/eless-app/releases/download/V1.1/Eless.apk";
     const link = document.createElement("a");
     link.href = apkUrl;
     // For cross-origin downloads, the download attribute might be ignored, 
